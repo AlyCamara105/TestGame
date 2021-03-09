@@ -11,7 +11,7 @@ function FirstService:SayHello()
 end
 
 function FirstService:Start()
-	
+	print("This local script is fired from the client side")
 end
 
 
